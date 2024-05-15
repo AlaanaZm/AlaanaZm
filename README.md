@@ -1,6 +1,6 @@
 Olá!
 Formada em Biologia mas com um pézinho na áea de programação 🤞
-<br>Atualmente estou cusando Técnico em Desenvlvimento de Sistemas pelo SENAI - PR, além de curso livre de desenvolvimento fullstack pela instituição Programador BR!<br>            
+<br>Atualmente estou cusando Técnico em Desenvolvimento de Sistemas pelo SENAI - PR, além de curso livre de Desenvolvedor FullStack pela instituição Programador BR!<br>            
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px/>
                     
