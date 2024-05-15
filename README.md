@@ -1,7 +1,7 @@
 Olá! 🐱‍💻🐱‍💻🐱‍💻🐱‍💻🐱‍💻🐱‍💻🐱‍💻🐱‍💻
 
 Formada em Biologia mas com um pézinho na áea de programação 🤞
-<br>Atualmente estou fazendo curso de desenvolvimento full-stack!<br>            
+<br>Atualmente estou cusando Técnico em Desenvlvimento de Sistemas pelo SENAI - PR, além de curso livre de desenvolvimento full-stack!<br>            
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px/>
                     
